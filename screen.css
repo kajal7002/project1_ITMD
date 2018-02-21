@@ -57,7 +57,7 @@ select { /* 1 */
 button,
 html [type="button"], /* 1 */
 [type="reset"],
-[type="submit"] {
+[type="sign up"] {
   -webkit-appearance: button; /* 2 */
 }
 
