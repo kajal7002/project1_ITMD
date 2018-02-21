@@ -57,7 +57,7 @@ select { /* 1 */
 button,
 html [type="button"], /* 1 */
 [type="reset"],
-[type="sign up"] {
+[type="sumbit"] {
   -webkit-appearance: button; /* 2 */
 }
 
@@ -80,7 +80,7 @@ button::-moz-focus-inner,
 button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
-[type="submit"]:-moz-focusring {
+[type="sign up"]:-moz-focusring {
   outline: 1px dotted ButtonText;
 }
 
